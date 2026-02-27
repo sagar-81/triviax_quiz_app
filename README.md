@@ -8,7 +8,7 @@ It provides a smooth quiz experience with question navigation, score tracking, a
 
 ## 📱 Download APK
 
-👉 [Download Latest APK]()
+👉 [Download Latest APK](https://github.com/sagar-81/triviax_quiz_app/blob/main/apk/app-release.apk)
 
 ---
 
